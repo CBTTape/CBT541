@@ -1,0 +1,41 @@
+2023-04-03 01:03:07.604490 - Initialized conversion of CBT541
+2023-04-03 01:03:07.997167 - Received CBT.V504.FILE541.PDS from FILE541.XMI 
+2023-04-03 01:03:08.000047 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE541.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:03:08.001366 - Found $$NOTE01.txt (text/plain) in CBT.V504.FILE541.PDS, moved to PDS/$$NOTE01
+2023-04-03 01:03:08.002525 - Found $$NOTE02.txt (text/plain) in CBT.V504.FILE541.PDS, moved to PDS/$$NOTE02
+2023-04-03 01:03:08.003907 - Found $$README.txt (text/plain) in CBT.V504.FILE541.PDS, moved to PDS/$$README
+2023-04-03 01:03:08.005337 - Found $$RECV.rexx (text/plain) in CBT.V504.FILE541.PDS, moved to PDS/$$RECV
+2023-04-03 01:03:08.006453 - Found @FILE541.txt (text/plain) in CBT.V504.FILE541.PDS, moved to PDS/@FILE541
+2023-04-03 01:03:08.007414 - Found A$BZCOMP.jcl (text/plain) in CBT.V504.FILE541.PDS, moved to PDS/A$BZCOMP
+2023-04-03 01:03:08.008711 - Found A$ZCOMP.jcl (text/plain) in CBT.V504.FILE541.PDS, moved to PDS/A$ZCOMP
+2023-04-03 01:03:08.009685 - Found B$PRLK.jcl (text/plain) in CBT.V504.FILE541.PDS, moved to PDS/B$PRLK
+2023-04-03 01:03:08.010579 - Found C$ASM.jcl (text/plain) in CBT.V504.FILE541.PDS, moved to PDS/C$ASM
+2023-04-03 01:03:08.011807 - Found C$ASM01.jcl (text/plain) in CBT.V504.FILE541.PDS, moved to PDS/C$ASM01
+2023-04-03 01:03:08.013198 - Found D$LKED.jcl (text/plain) in CBT.V504.FILE541.PDS, moved to PDS/D$LKED
+2023-04-03 01:03:08.014213 - Found D$LKED01.jcl (text/plain) in CBT.V504.FILE541.PDS, moved to PDS/D$LKED01
+2023-04-03 01:03:08.015419 - Found E$DUMP.jcl (text/plain) in CBT.V504.FILE541.PDS, moved to PDS/E$DUMP
+2023-04-03 01:03:08.016646 - Found E$LOAD.jcl (text/plain) in CBT.V504.FILE541.PDS, moved to PDS/E$LOAD
+2023-04-03 01:03:08.219926 - Found X$BZC.xmi (application/xmit) in CBT.V504.FILE541.PDS
+2023-04-03 01:03:08.232150   - Received to CBT541/BZLIB.C
+2023-04-03 01:03:08.274590 - Found X$BZH.xmi (application/xmit) in CBT.V504.FILE541.PDS
+2023-04-03 01:03:08.280067   - Received to CBT541/BZLIB.H
+2023-04-03 01:03:08.301745 - Found X$BZO.xmi (application/xmit) in CBT.V504.FILE541.PDS
+2023-04-03 01:03:08.312387   - Received to CBT541/BZLIB.OBJ
+2023-04-03 01:03:08.378297 - Found X$CCKDA.xmi (application/xmit) in CBT.V504.FILE541.PDS
+2023-04-03 01:03:08.383920   - Received to CBT541/CCKD.ASM
+2023-04-03 01:03:08.444569 - Found X$CCKDA0.xmi (application/xmit) in CBT.V504.FILE541.PDS
+2023-04-03 01:03:08.451005   - Received to CBT541/CCKD.ASM
+2023-04-03 01:03:08.489265 - Found X$CCKDL.xmi (application/xmit) in CBT.V504.FILE541.PDS
+2023-04-03 01:03:08.498262   - Received RECFM=U data, stored XMIT file as CBT541/X$CCKDL.xmi
+2023-04-03 01:03:08.534514 - Found X$CCKDL0.xmi (application/xmit) in CBT.V504.FILE541.PDS
+2023-04-03 01:03:08.543098   - Received RECFM=U data, stored XMIT file as CBT541/X$CCKDL0.xmi
+2023-04-03 01:03:08.578852 - Found X$CCKDO.xmi (application/xmit) in CBT.V504.FILE541.PDS
+2023-04-03 01:03:08.585277   - Received to CBT541/CCKD.OBJ
+2023-04-03 01:03:08.623605 - Found X$CCKDO0.xmi (application/xmit) in CBT.V504.FILE541.PDS
+2023-04-03 01:03:08.631725   - Received to CBT541/CCKD.OBJ
+2023-04-03 01:03:08.904379 - Found X$ZC.xmi (application/xmit) in CBT.V504.FILE541.PDS
+2023-04-03 01:03:08.926073   - Received to CBT541/ZLIB.C
+2023-04-03 01:03:09.049461 - Found X$ZH.xmi (application/xmit) in CBT.V504.FILE541.PDS
+2023-04-03 01:03:09.065794   - Received to CBT541/ZLIB.H
+2023-04-03 01:03:09.125532 - Found X$ZO.xmi (application/xmit) in CBT.V504.FILE541.PDS
+2023-04-03 01:03:09.146717   - Received to CBT541/ZLIB.OBJ
