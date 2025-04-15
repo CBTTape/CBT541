@@ -1,118 +1,118 @@
-2025-04-15 03:21:59.456066 - Received CBT.V508.FILE541.PDS from FILE541.XMI 
-2025-04-15 03:21:59.458084 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE541.PDS, moved to PDS/$$$#DATE
-2025-04-15 03:21:59.458319 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE541.PDS, moved to PDS/$$NOTE01
-2025-04-15 03:21:59.458497 - Found $$NOTE02.txt (text/plain) in CBT.V508.FILE541.PDS, moved to PDS/$$NOTE02
-2025-04-15 03:21:59.458661 - Found $$README.txt (text/plain) in CBT.V508.FILE541.PDS, moved to PDS/$$README
-2025-04-15 03:21:59.458981 - Found $$RECV.rexx (text/plain) in CBT.V508.FILE541.PDS, moved to PDS/$$RECV
-2025-04-15 03:21:59.459179 - Found @FILE541.txt (text/plain) in CBT.V508.FILE541.PDS, moved to PDS/@FILE541
-2025-04-15 03:21:59.459347 - Found A$BZCOMP.jcl (text/plain) in CBT.V508.FILE541.PDS, moved to PDS/A$BZCOMP
-2025-04-15 03:21:59.459515 - Found A$ZCOMP.jcl (text/plain) in CBT.V508.FILE541.PDS, moved to PDS/A$ZCOMP
-2025-04-15 03:21:59.459683 - Found B$PRLK.jcl (text/plain) in CBT.V508.FILE541.PDS, moved to PDS/B$PRLK
-2025-04-15 03:21:59.459842 - Found C$ASM.jcl (text/plain) in CBT.V508.FILE541.PDS, moved to PDS/C$ASM
-2025-04-15 03:21:59.460009 - Found C$ASM01.jcl (text/plain) in CBT.V508.FILE541.PDS, moved to PDS/C$ASM01
-2025-04-15 03:21:59.460194 - Found D$LKED.jcl (text/plain) in CBT.V508.FILE541.PDS, moved to PDS/D$LKED
-2025-04-15 03:21:59.460391 - Found D$LKED01.jcl (text/plain) in CBT.V508.FILE541.PDS, moved to PDS/D$LKED01
-2025-04-15 03:21:59.460572 - Found E$DUMP.jcl (text/plain) in CBT.V508.FILE541.PDS, moved to PDS/E$DUMP
-2025-04-15 03:21:59.460768 - Found E$LOAD.jcl (text/plain) in CBT.V508.FILE541.PDS, moved to PDS/E$LOAD
-2025-04-15 03:21:59.461541 - Found X$BZC.xmi (application/xmit) in CBT.V508.FILE541.PDS, moved to PDS/X$BZC.xmi
-2025-04-15 03:21:59.623423 - Received RYSJSYT.BZLIB.C from X$BZC.xmi 
-2025-04-15 03:21:59.624824 - Found BLKSRT.txt (text/plain) in RYSJSYT.BZLIB.C, moved to X$BZC/BLKSRT
-2025-04-15 03:21:59.625459 - Found BZLIB.txt (text/plain) in RYSJSYT.BZLIB.C, moved to X$BZC/BZLIB
-2025-04-15 03:21:59.625927 - Found COMPRESS.txt (text/plain) in RYSJSYT.BZLIB.C, moved to X$BZC/COMPRESS
-2025-04-15 03:21:59.626286 - Found CRCTABLE.txt (text/plain) in RYSJSYT.BZLIB.C, moved to X$BZC/CRCTABLE
-2025-04-15 03:21:59.626894 - Found DECOMPR.txt (text/plain) in RYSJSYT.BZLIB.C, moved to X$BZC/DECOMPR
-2025-04-15 03:21:59.627235 - Found HUFFMAN.txt (text/plain) in RYSJSYT.BZLIB.C, moved to X$BZC/HUFFMAN
-2025-04-15 03:21:59.627536 - Found LICENSE.txt (text/plain) in RYSJSYT.BZLIB.C, moved to X$BZC/LICENSE
-2025-04-15 03:21:59.627830 - Found RANDTAB.txt (text/plain) in RYSJSYT.BZLIB.C, moved to X$BZC/RANDTAB
-2025-04-15 03:21:59.628660 - Found X$BZH.xmi (application/xmit) in CBT.V508.FILE541.PDS, moved to PDS/X$BZH.xmi
-2025-04-15 03:21:59.667885 - Received RYSJSYT.BZLIB.H from X$BZH.xmi 
-2025-04-15 03:21:59.668684 - Found BZLIB.txt (text/plain) in RYSJSYT.BZLIB.H, moved to X$BZH/BZLIB
-2025-04-15 03:21:59.669027 - Found BZLIBPRV.txt (text/plain) in RYSJSYT.BZLIB.H, moved to X$BZH/BZLIBPRV
-2025-04-15 03:21:59.669845 - Found X$BZO.xmi (application/xmit) in CBT.V508.FILE541.PDS, moved to PDS/X$BZO.xmi
-2025-04-15 03:21:59.690837 - Received RYSJSYT.BZLIB.OBJ from X$BZO.xmi 
-2025-04-15 03:21:59.691925 - Found BLKSRT.bin (application/octet-stream) in RYSJSYT.BZLIB.OBJ, moved to X$BZO/BLKSRT
-2025-04-15 03:21:59.692549 - Found BZLIB.bin (application/octet-stream) in RYSJSYT.BZLIB.OBJ, moved to X$BZO/BZLIB
-2025-04-15 03:21:59.693144 - Found COMPRESS.bin (application/octet-stream) in RYSJSYT.BZLIB.OBJ, moved to X$BZO/COMPRESS
-2025-04-15 03:21:59.693369 - Found CRCTABLE.bin (application/octet-stream) in RYSJSYT.BZLIB.OBJ, moved to X$BZO/CRCTABLE
-2025-04-15 03:21:59.693969 - Found DECOMPR.bin (application/octet-stream) in RYSJSYT.BZLIB.OBJ, moved to X$BZO/DECOMPR
-2025-04-15 03:21:59.694171 - Found HUFFMAN.bin (application/octet-stream) in RYSJSYT.BZLIB.OBJ, moved to X$BZO/HUFFMAN
-2025-04-15 03:21:59.694367 - Found RANDTAB.bin (application/octet-stream) in RYSJSYT.BZLIB.OBJ, moved to X$BZO/RANDTAB
-2025-04-15 03:21:59.695652 - Found X$CCKDA.xmi (application/xmit) in CBT.V508.FILE541.PDS, moved to PDS/X$CCKDA.xmi
-2025-04-15 03:21:59.757065 - Received IBMUSER.CCKD.ASM from X$CCKDA.xmi 
-2025-04-15 03:21:59.758222 - Found CCKDDUMP.txt (text/plain) in IBMUSER.CCKD.ASM, moved to X$CCKDA/CCKDDUMP
-2025-04-15 03:21:59.758882 - Found CCKDLOAD.txt (text/plain) in IBMUSER.CCKD.ASM, moved to X$CCKDA/CCKDLOAD
-2025-04-15 03:21:59.760170 - Found X$CCKDA0.xmi (application/xmit) in CBT.V508.FILE541.PDS, moved to PDS/X$CCKDA0.xmi
-2025-04-15 03:21:59.822852 - Received RYSJSYT.CCKD.ASM from X$CCKDA0.xmi 
-2025-04-15 03:21:59.824332 - Found CCKDDUMP.txt (text/plain) in RYSJSYT.CCKD.ASM, moved to X$CCKDA0/CCKDDUMP
-2025-04-15 03:21:59.824992 - Found CCKDLOAD.txt (text/plain) in RYSJSYT.CCKD.ASM, moved to X$CCKDA0/CCKDLOAD
-2025-04-15 03:21:59.826169 - Found X$CCKDL.xmi (application/xmit) in CBT.V508.FILE541.PDS, moved to PDS/X$CCKDL.xmi
-2025-04-15 03:21:59.863163 - Received IBMUSER.CCKD.LOAD from X$CCKDL.xmi 
-2025-04-15 03:21:59.864455 - Found CCKDDUMP.bin (application/octet-stream) in IBMUSER.CCKD.LOAD, moved to X$CCKDL/CCKDDUMP
-2025-04-15 03:21:59.865328 - Found CCKDLOAD.bin (application/octet-stream) in IBMUSER.CCKD.LOAD, moved to X$CCKDL/CCKDLOAD
-2025-04-15 03:21:59.866556 - Found X$CCKDL0.xmi (application/xmit) in CBT.V508.FILE541.PDS, moved to PDS/X$CCKDL0.xmi
-2025-04-15 03:21:59.902626 - Received RYSJSYT.CCKD.LOAD from X$CCKDL0.xmi 
-2025-04-15 03:21:59.904049 - Found CCKDDUMP.bin (application/octet-stream) in RYSJSYT.CCKD.LOAD, moved to X$CCKDL0/CCKDDUMP
-2025-04-15 03:21:59.904955 - Found CCKDLOAD.bin (application/octet-stream) in RYSJSYT.CCKD.LOAD, moved to X$CCKDL0/CCKDLOAD
-2025-04-15 03:21:59.906139 - Found X$CCKDO.xmi (application/xmit) in CBT.V508.FILE541.PDS, moved to PDS/X$CCKDO.xmi
-2025-04-15 03:21:59.942388 - Received IBMUSER.CCKD.OBJ from X$CCKDO.xmi 
-2025-04-15 03:21:59.943509 - Found CCKDDUMP.bin (application/octet-stream) in IBMUSER.CCKD.OBJ, moved to X$CCKDO/CCKDDUMP
-2025-04-15 03:21:59.943834 - Found CCKDLOAD.bin (application/octet-stream) in IBMUSER.CCKD.OBJ, moved to X$CCKDO/CCKDLOAD
-2025-04-15 03:21:59.944686 - Found COMPLIB.bin (application/octet-stream) in IBMUSER.CCKD.OBJ, moved to X$CCKDO/COMPLIB
-2025-04-15 03:21:59.945954 - Found X$CCKDO0.xmi (application/xmit) in CBT.V508.FILE541.PDS, moved to PDS/X$CCKDO0.xmi
-2025-04-15 03:21:59.983398 - Received RYSJSYT.CCKD.OBJ from X$CCKDO0.xmi 
-2025-04-15 03:21:59.984478 - Found CCKDDUMP.bin (application/octet-stream) in RYSJSYT.CCKD.OBJ, moved to X$CCKDO0/CCKDDUMP
-2025-04-15 03:21:59.985058 - Found CCKDLOAD.bin (application/octet-stream) in RYSJSYT.CCKD.OBJ, moved to X$CCKDO0/CCKDLOAD
-2025-04-15 03:21:59.986163 - Found COMPLIB.bin (application/octet-stream) in RYSJSYT.CCKD.OBJ, moved to X$CCKDO0/COMPLIB
-2025-04-15 03:21:59.987354 - Found X$ZC.xmi (application/xmit) in CBT.V508.FILE541.PDS, moved to PDS/X$ZC.xmi
-2025-04-15 03:22:00.246533 - Received RYSJSYT.ZLIB.C from X$ZC.xmi 
-2025-04-15 03:22:00.247714 - Found ADLER32.txt (text/plain) in RYSJSYT.ZLIB.C, moved to X$ZC/ADLER32
-2025-04-15 03:22:00.247886 - Found COMPRESS.txt (text/plain) in RYSJSYT.ZLIB.C, moved to X$ZC/COMPRESS
-2025-04-15 03:22:00.248237 - Found CRC32.txt (text/plain) in RYSJSYT.ZLIB.C, moved to X$ZC/CRC32
-2025-04-15 03:22:00.248825 - Found DEFLATE.txt (text/plain) in RYSJSYT.ZLIB.C, moved to X$ZC/DEFLATE
-2025-04-15 03:22:00.249183 - Found EXAMPLE.txt (text/plain) in RYSJSYT.ZLIB.C, moved to X$ZC/EXAMPLE
-2025-04-15 03:22:00.249596 - Found GZIO.txt (text/plain) in RYSJSYT.ZLIB.C, moved to X$ZC/GZIO
-2025-04-15 03:22:00.249830 - Found INFBLOCK.txt (text/plain) in RYSJSYT.ZLIB.C, moved to X$ZC/INFBLOCK
-2025-04-15 03:22:00.250059 - Found INFCODES.txt (text/plain) in RYSJSYT.ZLIB.C, moved to X$ZC/INFCODES
-2025-04-15 03:22:00.250292 - Found INFFAST.txt (text/plain) in RYSJSYT.ZLIB.C, moved to X$ZC/INFFAST
-2025-04-15 03:22:00.250544 - Found INFLATE.txt (text/plain) in RYSJSYT.ZLIB.C, moved to X$ZC/INFLATE
-2025-04-15 03:22:00.250804 - Found INFTREES.txt (text/plain) in RYSJSYT.ZLIB.C, moved to X$ZC/INFTREES
-2025-04-15 03:22:00.251002 - Found INFUTIL.txt (text/plain) in RYSJSYT.ZLIB.C, moved to X$ZC/INFUTIL
-2025-04-15 03:22:00.251175 - Found MAKETREE.x-c (text/x-c) in RYSJSYT.ZLIB.C, moved to X$ZC/MAKETREE
-2025-04-15 03:22:00.251395 - Found MINIGZIP.x-c (text/x-c) in RYSJSYT.ZLIB.C, moved to X$ZC/MINIGZIP
-2025-04-15 03:22:00.251577 - Found README.txt (text/plain) in RYSJSYT.ZLIB.C, moved to X$ZC/README
-2025-04-15 03:22:00.252076 - Found TREES.txt (text/plain) in RYSJSYT.ZLIB.C, moved to X$ZC/TREES
-2025-04-15 03:22:00.252359 - Found UNCOMPR.txt (text/plain) in RYSJSYT.ZLIB.C, moved to X$ZC/UNCOMPR
-2025-04-15 03:22:00.252648 - Found ZUTIL.txt (text/plain) in RYSJSYT.ZLIB.C, moved to X$ZC/ZUTIL
-2025-04-15 03:22:00.253612 - Found X$ZH.xmi (application/xmit) in CBT.V508.FILE541.PDS, moved to PDS/X$ZH.xmi
-2025-04-15 03:22:00.377056 - Received RYSJSYT.ZLIB.H from X$ZH.xmi 
-2025-04-15 03:22:00.378060 - Found DEFLATE.txt (text/plain) in RYSJSYT.ZLIB.H, moved to X$ZH/DEFLATE
-2025-04-15 03:22:00.378441 - Found INFBLOCK.txt (text/plain) in RYSJSYT.ZLIB.H, moved to X$ZH/INFBLOCK
-2025-04-15 03:22:00.378602 - Found INFCODES.txt (text/plain) in RYSJSYT.ZLIB.H, moved to X$ZH/INFCODES
-2025-04-15 03:22:00.378766 - Found INFFAST.txt (text/plain) in RYSJSYT.ZLIB.H, moved to X$ZH/INFFAST
-2025-04-15 03:22:00.378973 - Found INFFIXED.txt (text/plain) in RYSJSYT.ZLIB.H, moved to X$ZH/INFFIXED
-2025-04-15 03:22:00.379182 - Found INFTREES.txt (text/plain) in RYSJSYT.ZLIB.H, moved to X$ZH/INFTREES
-2025-04-15 03:22:00.379378 - Found INFUTIL.txt (text/plain) in RYSJSYT.ZLIB.H, moved to X$ZH/INFUTIL
-2025-04-15 03:22:00.379590 - Found README.txt (text/plain) in RYSJSYT.ZLIB.H, moved to X$ZH/README
-2025-04-15 03:22:00.379817 - Found TREES.txt (text/plain) in RYSJSYT.ZLIB.H, moved to X$ZH/TREES
-2025-04-15 03:22:00.380014 - Found ZCONF.txt (text/plain) in RYSJSYT.ZLIB.H, moved to X$ZH/ZCONF
-2025-04-15 03:22:00.380567 - Found ZLIB.txt (text/plain) in RYSJSYT.ZLIB.H, moved to X$ZH/ZLIB
-2025-04-15 03:22:00.380905 - Found ZUTIL.txt (text/plain) in RYSJSYT.ZLIB.H, moved to X$ZH/ZUTIL
-2025-04-15 03:22:00.382231 - Found X$ZO.xmi (application/xmit) in CBT.V508.FILE541.PDS, moved to PDS/X$ZO.xmi
-2025-04-15 03:22:00.440531 - Received RYSJSYT.ZLIB.OBJ from X$ZO.xmi 
-2025-04-15 03:22:00.441439 - Found ADLER32.bin (application/octet-stream) in RYSJSYT.ZLIB.OBJ, moved to X$ZO/ADLER32
-2025-04-15 03:22:00.441757 - Found COMPRESS.bin (application/octet-stream) in RYSJSYT.ZLIB.OBJ, moved to X$ZO/COMPRESS
-2025-04-15 03:22:00.441926 - Found CRC32.bin (application/octet-stream) in RYSJSYT.ZLIB.OBJ, moved to X$ZO/CRC32
-2025-04-15 03:22:00.442256 - Found DEFLATE.bin (application/octet-stream) in RYSJSYT.ZLIB.OBJ, moved to X$ZO/DEFLATE
-2025-04-15 03:22:00.442793 - Found EXAMPLE.bin (application/octet-stream) in RYSJSYT.ZLIB.OBJ, moved to X$ZO/EXAMPLE
-2025-04-15 03:22:00.443456 - Found GZIO.bin (application/octet-stream) in RYSJSYT.ZLIB.OBJ, moved to X$ZO/GZIO
-2025-04-15 03:22:00.443695 - Found INFBLOCK.bin (application/octet-stream) in RYSJSYT.ZLIB.OBJ, moved to X$ZO/INFBLOCK
-2025-04-15 03:22:00.443879 - Found INFCODES.bin (application/octet-stream) in RYSJSYT.ZLIB.OBJ, moved to X$ZO/INFCODES
-2025-04-15 03:22:00.444041 - Found INFFAST.bin (application/octet-stream) in RYSJSYT.ZLIB.OBJ, moved to X$ZO/INFFAST
-2025-04-15 03:22:00.444259 - Found INFLATE.bin (application/octet-stream) in RYSJSYT.ZLIB.OBJ, moved to X$ZO/INFLATE
-2025-04-15 03:22:00.444460 - Found INFTREES.bin (application/octet-stream) in RYSJSYT.ZLIB.OBJ, moved to X$ZO/INFTREES
-2025-04-15 03:22:00.444610 - Found INFUTIL.bin (application/octet-stream) in RYSJSYT.ZLIB.OBJ, moved to X$ZO/INFUTIL
-2025-04-15 03:22:00.444775 - Found README.txt (text/plain) in RYSJSYT.ZLIB.OBJ, moved to X$ZO/README
-2025-04-15 03:22:00.445082 - Found TREES.bin (application/octet-stream) in RYSJSYT.ZLIB.OBJ, moved to X$ZO/TREES
-2025-04-15 03:22:00.445253 - Found UNCOMPR.bin (application/octet-stream) in RYSJSYT.ZLIB.OBJ, moved to X$ZO/UNCOMPR
-2025-04-15 03:22:00.445978 - Found ZLIB.bin (application/octet-stream) in RYSJSYT.ZLIB.OBJ, moved to X$ZO/ZLIB
-2025-04-15 03:22:00.446278 - Found ZUTIL.bin (application/octet-stream) in RYSJSYT.ZLIB.OBJ, moved to X$ZO/ZUTIL
+2025-04-15 22:08:32.962547 - Received CBT.V508.FILE541.PDS from FILE541.XMI 
+2025-04-15 22:08:32.964368 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE541.PDS, moved to PDS/$$$#DATE
+2025-04-15 22:08:32.964582 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE541.PDS, moved to PDS/$$NOTE01
+2025-04-15 22:08:32.964757 - Found $$NOTE02.txt (text/plain) in CBT.V508.FILE541.PDS, moved to PDS/$$NOTE02
+2025-04-15 22:08:32.964906 - Found $$README.txt (text/plain) in CBT.V508.FILE541.PDS, moved to PDS/$$README
+2025-04-15 22:08:32.965080 - Found $$RECV.rexx (text/plain) in CBT.V508.FILE541.PDS, moved to PDS/$$RECV
+2025-04-15 22:08:32.965130 - Found @FILE541.txt (text/plain) in CBT.V508.FILE541.PDS, moved to PDS/@FILE541
+2025-04-15 22:08:32.965336 - Found A$BZCOMP.jcl (text/plain) in CBT.V508.FILE541.PDS, moved to PDS/A$BZCOMP
+2025-04-15 22:08:32.965492 - Found A$ZCOMP.jcl (text/plain) in CBT.V508.FILE541.PDS, moved to PDS/A$ZCOMP
+2025-04-15 22:08:32.965713 - Found B$PRLK.jcl (text/plain) in CBT.V508.FILE541.PDS, moved to PDS/B$PRLK
+2025-04-15 22:08:32.965933 - Found C$ASM.jcl (text/plain) in CBT.V508.FILE541.PDS, moved to PDS/C$ASM
+2025-04-15 22:08:32.966080 - Found C$ASM01.jcl (text/plain) in CBT.V508.FILE541.PDS, moved to PDS/C$ASM01
+2025-04-15 22:08:32.966259 - Found D$LKED.jcl (text/plain) in CBT.V508.FILE541.PDS, moved to PDS/D$LKED
+2025-04-15 22:08:32.966421 - Found D$LKED01.jcl (text/plain) in CBT.V508.FILE541.PDS, moved to PDS/D$LKED01
+2025-04-15 22:08:32.966579 - Found E$DUMP.jcl (text/plain) in CBT.V508.FILE541.PDS, moved to PDS/E$DUMP
+2025-04-15 22:08:32.966786 - Found E$LOAD.jcl (text/plain) in CBT.V508.FILE541.PDS, moved to PDS/E$LOAD
+2025-04-15 22:08:32.967790 - Found X$BZC.xmi (application/xmit) in CBT.V508.FILE541.PDS, moved to PDS/X$BZC.xmi
+2025-04-15 22:08:33.142663 - Received RYSJSYT.BZLIB.C from X$BZC.xmi 
+2025-04-15 22:08:33.144066 - Found BLKSRT.txt (text/plain) in RYSJSYT.BZLIB.C, moved to X$BZC/BLKSRT
+2025-04-15 22:08:33.144830 - Found BZLIB.txt (text/plain) in RYSJSYT.BZLIB.C, moved to X$BZC/BZLIB
+2025-04-15 22:08:33.145491 - Found COMPRESS.txt (text/plain) in RYSJSYT.BZLIB.C, moved to X$BZC/COMPRESS
+2025-04-15 22:08:33.145811 - Found CRCTABLE.txt (text/plain) in RYSJSYT.BZLIB.C, moved to X$BZC/CRCTABLE
+2025-04-15 22:08:33.146289 - Found DECOMPR.txt (text/plain) in RYSJSYT.BZLIB.C, moved to X$BZC/DECOMPR
+2025-04-15 22:08:33.146630 - Found HUFFMAN.txt (text/plain) in RYSJSYT.BZLIB.C, moved to X$BZC/HUFFMAN
+2025-04-15 22:08:33.146970 - Found LICENSE.txt (text/plain) in RYSJSYT.BZLIB.C, moved to X$BZC/LICENSE
+2025-04-15 22:08:33.147260 - Found RANDTAB.txt (text/plain) in RYSJSYT.BZLIB.C, moved to X$BZC/RANDTAB
+2025-04-15 22:08:33.148160 - Found X$BZH.xmi (application/xmit) in CBT.V508.FILE541.PDS, moved to PDS/X$BZH.xmi
+2025-04-15 22:08:33.190478 - Received RYSJSYT.BZLIB.H from X$BZH.xmi 
+2025-04-15 22:08:33.191271 - Found BZLIB.txt (text/plain) in RYSJSYT.BZLIB.H, moved to X$BZH/BZLIB
+2025-04-15 22:08:33.191652 - Found BZLIBPRV.txt (text/plain) in RYSJSYT.BZLIB.H, moved to X$BZH/BZLIBPRV
+2025-04-15 22:08:33.192798 - Found X$BZO.xmi (application/xmit) in CBT.V508.FILE541.PDS, moved to PDS/X$BZO.xmi
+2025-04-15 22:08:33.215565 - Received RYSJSYT.BZLIB.OBJ from X$BZO.xmi 
+2025-04-15 22:08:33.216721 - Found BLKSRT.bin (application/octet-stream) in RYSJSYT.BZLIB.OBJ, moved to X$BZO/BLKSRT
+2025-04-15 22:08:33.217320 - Found BZLIB.bin (application/octet-stream) in RYSJSYT.BZLIB.OBJ, moved to X$BZO/BZLIB
+2025-04-15 22:08:33.217951 - Found COMPRESS.bin (application/octet-stream) in RYSJSYT.BZLIB.OBJ, moved to X$BZO/COMPRESS
+2025-04-15 22:08:33.218152 - Found CRCTABLE.bin (application/octet-stream) in RYSJSYT.BZLIB.OBJ, moved to X$BZO/CRCTABLE
+2025-04-15 22:08:33.218828 - Found DECOMPR.bin (application/octet-stream) in RYSJSYT.BZLIB.OBJ, moved to X$BZO/DECOMPR
+2025-04-15 22:08:33.219036 - Found HUFFMAN.bin (application/octet-stream) in RYSJSYT.BZLIB.OBJ, moved to X$BZO/HUFFMAN
+2025-04-15 22:08:33.219260 - Found RANDTAB.bin (application/octet-stream) in RYSJSYT.BZLIB.OBJ, moved to X$BZO/RANDTAB
+2025-04-15 22:08:33.220643 - Found X$CCKDA.xmi (application/xmit) in CBT.V508.FILE541.PDS, moved to PDS/X$CCKDA.xmi
+2025-04-15 22:08:33.285048 - Received IBMUSER.CCKD.ASM from X$CCKDA.xmi 
+2025-04-15 22:08:33.286646 - Found CCKDDUMP.txt (text/plain) in IBMUSER.CCKD.ASM, moved to X$CCKDA/CCKDDUMP
+2025-04-15 22:08:33.287524 - Found CCKDLOAD.txt (text/plain) in IBMUSER.CCKD.ASM, moved to X$CCKDA/CCKDLOAD
+2025-04-15 22:08:33.289150 - Found X$CCKDA0.xmi (application/xmit) in CBT.V508.FILE541.PDS, moved to PDS/X$CCKDA0.xmi
+2025-04-15 22:08:33.352133 - Received RYSJSYT.CCKD.ASM from X$CCKDA0.xmi 
+2025-04-15 22:08:33.353638 - Found CCKDDUMP.txt (text/plain) in RYSJSYT.CCKD.ASM, moved to X$CCKDA0/CCKDDUMP
+2025-04-15 22:08:33.354333 - Found CCKDLOAD.txt (text/plain) in RYSJSYT.CCKD.ASM, moved to X$CCKDA0/CCKDLOAD
+2025-04-15 22:08:33.356286 - Found X$CCKDL.xmi (application/xmit) in CBT.V508.FILE541.PDS, moved to PDS/X$CCKDL.xmi
+2025-04-15 22:08:33.395136 - Received IBMUSER.CCKD.LOAD from X$CCKDL.xmi 
+2025-04-15 22:08:33.396724 - Found CCKDDUMP.bin (application/octet-stream) in IBMUSER.CCKD.LOAD, moved to X$CCKDL/CCKDDUMP
+2025-04-15 22:08:33.397700 - Found CCKDLOAD.bin (application/octet-stream) in IBMUSER.CCKD.LOAD, moved to X$CCKDL/CCKDLOAD
+2025-04-15 22:08:33.399525 - Found X$CCKDL0.xmi (application/xmit) in CBT.V508.FILE541.PDS, moved to PDS/X$CCKDL0.xmi
+2025-04-15 22:08:33.438391 - Received RYSJSYT.CCKD.LOAD from X$CCKDL0.xmi 
+2025-04-15 22:08:33.440404 - Found CCKDDUMP.bin (application/octet-stream) in RYSJSYT.CCKD.LOAD, moved to X$CCKDL0/CCKDDUMP
+2025-04-15 22:08:33.441945 - Found CCKDLOAD.bin (application/octet-stream) in RYSJSYT.CCKD.LOAD, moved to X$CCKDL0/CCKDLOAD
+2025-04-15 22:08:33.444209 - Found X$CCKDO.xmi (application/xmit) in CBT.V508.FILE541.PDS, moved to PDS/X$CCKDO.xmi
+2025-04-15 22:08:33.482404 - Received IBMUSER.CCKD.OBJ from X$CCKDO.xmi 
+2025-04-15 22:08:33.483593 - Found CCKDDUMP.bin (application/octet-stream) in IBMUSER.CCKD.OBJ, moved to X$CCKDO/CCKDDUMP
+2025-04-15 22:08:33.484053 - Found CCKDLOAD.bin (application/octet-stream) in IBMUSER.CCKD.OBJ, moved to X$CCKDO/CCKDLOAD
+2025-04-15 22:08:33.485422 - Found COMPLIB.bin (application/octet-stream) in IBMUSER.CCKD.OBJ, moved to X$CCKDO/COMPLIB
+2025-04-15 22:08:33.487339 - Found X$CCKDO0.xmi (application/xmit) in CBT.V508.FILE541.PDS, moved to PDS/X$CCKDO0.xmi
+2025-04-15 22:08:33.523555 - Received RYSJSYT.CCKD.OBJ from X$CCKDO0.xmi 
+2025-04-15 22:08:33.524693 - Found CCKDDUMP.bin (application/octet-stream) in RYSJSYT.CCKD.OBJ, moved to X$CCKDO0/CCKDDUMP
+2025-04-15 22:08:33.525368 - Found CCKDLOAD.bin (application/octet-stream) in RYSJSYT.CCKD.OBJ, moved to X$CCKDO0/CCKDLOAD
+2025-04-15 22:08:33.526837 - Found COMPLIB.bin (application/octet-stream) in RYSJSYT.CCKD.OBJ, moved to X$CCKDO0/COMPLIB
+2025-04-15 22:08:33.528222 - Found X$ZC.xmi (application/xmit) in CBT.V508.FILE541.PDS, moved to PDS/X$ZC.xmi
+2025-04-15 22:08:33.806653 - Received RYSJSYT.ZLIB.C from X$ZC.xmi 
+2025-04-15 22:08:33.807769 - Found ADLER32.txt (text/plain) in RYSJSYT.ZLIB.C, moved to X$ZC/ADLER32
+2025-04-15 22:08:33.808175 - Found COMPRESS.txt (text/plain) in RYSJSYT.ZLIB.C, moved to X$ZC/COMPRESS
+2025-04-15 22:08:33.808534 - Found CRC32.txt (text/plain) in RYSJSYT.ZLIB.C, moved to X$ZC/CRC32
+2025-04-15 22:08:33.809130 - Found DEFLATE.txt (text/plain) in RYSJSYT.ZLIB.C, moved to X$ZC/DEFLATE
+2025-04-15 22:08:33.809504 - Found EXAMPLE.txt (text/plain) in RYSJSYT.ZLIB.C, moved to X$ZC/EXAMPLE
+2025-04-15 22:08:33.809902 - Found GZIO.txt (text/plain) in RYSJSYT.ZLIB.C, moved to X$ZC/GZIO
+2025-04-15 22:08:33.810135 - Found INFBLOCK.txt (text/plain) in RYSJSYT.ZLIB.C, moved to X$ZC/INFBLOCK
+2025-04-15 22:08:33.810340 - Found INFCODES.txt (text/plain) in RYSJSYT.ZLIB.C, moved to X$ZC/INFCODES
+2025-04-15 22:08:33.810549 - Found INFFAST.txt (text/plain) in RYSJSYT.ZLIB.C, moved to X$ZC/INFFAST
+2025-04-15 22:08:33.810760 - Found INFLATE.txt (text/plain) in RYSJSYT.ZLIB.C, moved to X$ZC/INFLATE
+2025-04-15 22:08:33.811028 - Found INFTREES.txt (text/plain) in RYSJSYT.ZLIB.C, moved to X$ZC/INFTREES
+2025-04-15 22:08:33.811233 - Found INFUTIL.txt (text/plain) in RYSJSYT.ZLIB.C, moved to X$ZC/INFUTIL
+2025-04-15 22:08:33.811441 - Found MAKETREE.x-c (text/x-c) in RYSJSYT.ZLIB.C, moved to X$ZC/MAKETREE
+2025-04-15 22:08:33.811655 - Found MINIGZIP.x-c (text/x-c) in RYSJSYT.ZLIB.C, moved to X$ZC/MINIGZIP
+2025-04-15 22:08:33.811869 - Found README.txt (text/plain) in RYSJSYT.ZLIB.C, moved to X$ZC/README
+2025-04-15 22:08:33.812350 - Found TREES.txt (text/plain) in RYSJSYT.ZLIB.C, moved to X$ZC/TREES
+2025-04-15 22:08:33.812653 - Found UNCOMPR.txt (text/plain) in RYSJSYT.ZLIB.C, moved to X$ZC/UNCOMPR
+2025-04-15 22:08:33.812993 - Found ZUTIL.txt (text/plain) in RYSJSYT.ZLIB.C, moved to X$ZC/ZUTIL
+2025-04-15 22:08:33.814144 - Found X$ZH.xmi (application/xmit) in CBT.V508.FILE541.PDS, moved to PDS/X$ZH.xmi
+2025-04-15 22:08:33.946331 - Received RYSJSYT.ZLIB.H from X$ZH.xmi 
+2025-04-15 22:08:33.947423 - Found DEFLATE.txt (text/plain) in RYSJSYT.ZLIB.H, moved to X$ZH/DEFLATE
+2025-04-15 22:08:33.947826 - Found INFBLOCK.txt (text/plain) in RYSJSYT.ZLIB.H, moved to X$ZH/INFBLOCK
+2025-04-15 22:08:33.947995 - Found INFCODES.txt (text/plain) in RYSJSYT.ZLIB.H, moved to X$ZH/INFCODES
+2025-04-15 22:08:33.948199 - Found INFFAST.txt (text/plain) in RYSJSYT.ZLIB.H, moved to X$ZH/INFFAST
+2025-04-15 22:08:33.948414 - Found INFFIXED.txt (text/plain) in RYSJSYT.ZLIB.H, moved to X$ZH/INFFIXED
+2025-04-15 22:08:33.948596 - Found INFTREES.txt (text/plain) in RYSJSYT.ZLIB.H, moved to X$ZH/INFTREES
+2025-04-15 22:08:33.948764 - Found INFUTIL.txt (text/plain) in RYSJSYT.ZLIB.H, moved to X$ZH/INFUTIL
+2025-04-15 22:08:33.949031 - Found README.txt (text/plain) in RYSJSYT.ZLIB.H, moved to X$ZH/README
+2025-04-15 22:08:33.949264 - Found TREES.txt (text/plain) in RYSJSYT.ZLIB.H, moved to X$ZH/TREES
+2025-04-15 22:08:33.949569 - Found ZCONF.txt (text/plain) in RYSJSYT.ZLIB.H, moved to X$ZH/ZCONF
+2025-04-15 22:08:33.950128 - Found ZLIB.txt (text/plain) in RYSJSYT.ZLIB.H, moved to X$ZH/ZLIB
+2025-04-15 22:08:33.950464 - Found ZUTIL.txt (text/plain) in RYSJSYT.ZLIB.H, moved to X$ZH/ZUTIL
+2025-04-15 22:08:33.952780 - Found X$ZO.xmi (application/xmit) in CBT.V508.FILE541.PDS, moved to PDS/X$ZO.xmi
+2025-04-15 22:08:34.011331 - Received RYSJSYT.ZLIB.OBJ from X$ZO.xmi 
+2025-04-15 22:08:34.012264 - Found ADLER32.bin (application/octet-stream) in RYSJSYT.ZLIB.OBJ, moved to X$ZO/ADLER32
+2025-04-15 22:08:34.012868 - Found COMPRESS.bin (application/octet-stream) in RYSJSYT.ZLIB.OBJ, moved to X$ZO/COMPRESS
+2025-04-15 22:08:34.013127 - Found CRC32.bin (application/octet-stream) in RYSJSYT.ZLIB.OBJ, moved to X$ZO/CRC32
+2025-04-15 22:08:34.013643 - Found DEFLATE.bin (application/octet-stream) in RYSJSYT.ZLIB.OBJ, moved to X$ZO/DEFLATE
+2025-04-15 22:08:34.014276 - Found EXAMPLE.bin (application/octet-stream) in RYSJSYT.ZLIB.OBJ, moved to X$ZO/EXAMPLE
+2025-04-15 22:08:34.014972 - Found GZIO.bin (application/octet-stream) in RYSJSYT.ZLIB.OBJ, moved to X$ZO/GZIO
+2025-04-15 22:08:34.015289 - Found INFBLOCK.bin (application/octet-stream) in RYSJSYT.ZLIB.OBJ, moved to X$ZO/INFBLOCK
+2025-04-15 22:08:34.015534 - Found INFCODES.bin (application/octet-stream) in RYSJSYT.ZLIB.OBJ, moved to X$ZO/INFCODES
+2025-04-15 22:08:34.015764 - Found INFFAST.bin (application/octet-stream) in RYSJSYT.ZLIB.OBJ, moved to X$ZO/INFFAST
+2025-04-15 22:08:34.015984 - Found INFLATE.bin (application/octet-stream) in RYSJSYT.ZLIB.OBJ, moved to X$ZO/INFLATE
+2025-04-15 22:08:34.016225 - Found INFTREES.bin (application/octet-stream) in RYSJSYT.ZLIB.OBJ, moved to X$ZO/INFTREES
+2025-04-15 22:08:34.016499 - Found INFUTIL.bin (application/octet-stream) in RYSJSYT.ZLIB.OBJ, moved to X$ZO/INFUTIL
+2025-04-15 22:08:34.016767 - Found README.txt (text/plain) in RYSJSYT.ZLIB.OBJ, moved to X$ZO/README
+2025-04-15 22:08:34.017203 - Found TREES.bin (application/octet-stream) in RYSJSYT.ZLIB.OBJ, moved to X$ZO/TREES
+2025-04-15 22:08:34.017416 - Found UNCOMPR.bin (application/octet-stream) in RYSJSYT.ZLIB.OBJ, moved to X$ZO/UNCOMPR
+2025-04-15 22:08:34.018386 - Found ZLIB.bin (application/octet-stream) in RYSJSYT.ZLIB.OBJ, moved to X$ZO/ZLIB
+2025-04-15 22:08:34.018745 - Found ZUTIL.bin (application/octet-stream) in RYSJSYT.ZLIB.OBJ, moved to X$ZO/ZUTIL
